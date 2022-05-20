@@ -1,4 +1,4 @@
-Compte Admin pour les projets git de la société APPKER.
+Compte Admin pour les projets git de la société Fragment.
 
 <!---
 APPKER-DEV/APPKER-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
